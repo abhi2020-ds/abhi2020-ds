@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **abhi2020-ds/abhi2020-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src=https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png></img>
+<img src=https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png width="200" height="200"></img>
