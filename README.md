@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://abhi2020-ds.github.io/">
-<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png" width="700px" height="400px"> </img>
+<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png" width="900px" height="400px"> </img>
 </a>
 
 ## Hello All
