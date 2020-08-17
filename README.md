@@ -15,8 +15,22 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://abhi2020-ds.github.io/">
-<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png" width="1000px" height="280px"> </img>
+<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Git.png" width="1000px" height="280px"> </img>
 </a>
+<p align="center">
+<a href="https://abhi2020-ds.github.io/">
+<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/fb.png" width="1000px" height="280px"> </img>
+</a>&nbsp;&nbsp;
+<a href="https://abhi2020-ds.github.io/">
+<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Insta.png" width="1000px" height="280px"> </img>
+</a>&nbsp;&nbsp;
+<a href="https://abhi2020-ds.github.io/">
+<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Linkedin.png" width="1000px" height="280px"> </img>
+</a>&nbsp;&nbsp;
+<a href="https://abhi2020-ds.github.io/">
+<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/mail.png" width="1000px" height="280px"> </img>
+</a>
+</p>
 
 ## Hello All
 I am new to Github and learning how to use this platform to store my work in repositories for data engineering and data science projects. I love technology and enjoy coding. So this would be good way to keep myself engaged and contribute to Git community. Thank you for visiting my profile.
