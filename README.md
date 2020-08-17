@@ -17,17 +17,11 @@ Here are some ideas to get you started:
 <a href="https://abhi2020-ds.github.io/">
 <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png" width="1000px" height="280px"> </img>
 </a>
+<br></br>
 <p align="center">
 <a href="https://abhi2020-ds.github.io/">
 <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Git.png" width="50px" height="50px"> </img>
 </a>&nbsp;&nbsp;
-<a href="https://abhi2020-ds.github.io/">
-<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/fb.png" width="50px" height="50px"> </img>
-</a>&nbsp;&nbsp;
-<a href="https://abhi2020-ds.github.io/">
-<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Insta.png" width="50px" height="50px"> </img>
-</a>&nbsp;&nbsp;
-<a href="https://abhi2020-ds.github.io/">
 <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Linkedin.png" width="50px" height="50px"> </img>
 </a>&nbsp;&nbsp;
 <a href="https://abhi2020-ds.github.io/">
