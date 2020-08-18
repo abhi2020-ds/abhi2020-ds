@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <br></br>
 <p align="center">
 <a href="https://abhi2020-ds.github.io/">
-<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Git.png" width="50px" height="50px"> </img>
+<picture>
+    <source media="(min-width: 900px)" srcset="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/git.png">
+    <source media="(min-width: 450px)" srcset="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/git_small.png">
+    <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/git.png" alt="IfItDoesntMatchAnyMedia">
+</picture>
 </a>&nbsp;&nbsp;
 <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Linkedin.png" width="50px" height="50px"> </img>
 </a>&nbsp;&nbsp;
