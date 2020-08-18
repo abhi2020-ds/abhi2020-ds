@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/abhineetsingh03/">
 <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Linkedin.png" width="50px" height="50px"> </img>
 </a>&nbsp;&nbsp;
-<a href="https://abhi2020-ds.github.io/">
+<a href="mailto: concept_abhi@yahoo.co.in">
 <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/mail.png" width="50px" height="50px"> </img>
 </a>
 </p>
