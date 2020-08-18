@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://abhi2020-ds.github.io/">
-<img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png" width="1000px" height="350px"> </img>
+<picture>
+    <source media="(min-width: 900px)" srcset="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png">
+    <source media="(min-width: 480px)" srcset="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png">
+    <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png" alt="IfItDoesntMatchAnyMedia">
+</picture>
 </a>
 <br></br>
 <p align="center">
