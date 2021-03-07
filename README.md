@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## Hi All
-As I continue to learn all aspects of Github , I am excited to create useful repositories for data engineering and data science projects. I am passionate about technology and love to code. Git page is a great way to keep myself engaged and contribute to data engineering, data science and business intelligence community. Thank you for visiting my profile !
+## Welcome To My GitPage
+Let's do it ! I am thrilled be on git platform and share and learn about technology with the community, with a hope to create valuable repositories along the way for data engineering and science projects. Let us explore together this vast universe of digital world by enabling data as the medium to tell an interesting story.
