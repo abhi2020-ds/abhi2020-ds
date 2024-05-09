@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## Welcome To My GitPage
-Let's do it ! I am thrilled to be on git platform. To share and learn about technology with broader community, with a hope to create impactful code repositories along the way for Data Engineering and Science projects. Lets explore together this vast digital universe by enabling data as the medium to tell an interesting story.
+## Welcome
+I'm excited to embark on this journey within the Git platform. It's a fantastic opportunity to connect with the vibrant data scientist community, exchanging knowledge and insights. My goal? To collaborate on impactful code repositories tailored specifically for Data Engineering and Science projects. Together, let's delve into the boundless expanse of the digital universe, using data as our canvas to craft compelling narratives. I can't wait to see what stories we uncover and the innovations we create along the way!
