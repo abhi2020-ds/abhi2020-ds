@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <picture>
     <source media="(min-width: 600px)" srcset="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/profile.png">
     <source media="(min-width: 450px)" srcset="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/profile_small.png">
-    <img src="https://github.com/abhi2020-ds/abhi2020-ds/blob/master/Images/Profile.png" alt="IfItDoesntMatchAnyMedia">
 </picture>
 </a>
 <br></br>
