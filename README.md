@@ -34,4 +34,17 @@ Here are some ideas to get you started:
 </p>
 
 ## Welcome
-I'm excited to embark on this journey within the Git platform. It's a fantastic opportunity to connect with the vibrant data scientist community, exchanging knowledge and insights. My goal? To collaborate on impactful code repositories tailored specifically for Data Engineering and Science projects. Together, let's delve into the boundless expanse of the digital universe, using data as our canvas to craft compelling narratives. I can't wait to see what stories we uncover and the innovations we create along the way!
+With cross-industry experience across finance, manufacturing, and quick‑service restaurants, I build data solutions that translate complex signals into measurable business outcomes. I specialize in predictive modeling, advanced analytics, and end‑to‑end data engineering—designing reliable pipelines, intuitive dashboards, and reproducible ML workflows to support faster, data‑driven decisions.
+
+Selected technologies (representative)
+- Query & analytics: PL/SQL, DAX, KQL, SSIS/SSAS
+- Orchestration & ETL: Talend, Informatica, DataStage, Azure Data Factory, Flink
+- Big Data & warehousing: Spark, Hadoop, Databricks, Snowflake
+- Databases: SQL Server, Oracle, MySQL, PostgreSQL
+- Programming & ML: Python, R, Java; Pandas, NumPy, scikit‑learn, TensorFlow, PyTorch
+- MLOps & DevOps: Docker, Jenkins, GitHub Actions, n8n
+- BI & viz: Power BI, Looker, Qlik, Streamlit, Shiny
+- Cloud & automation: Azure, AWS, GCP, Power Automate, VBA
+- Collaboration & governance: JIRA, Confluence, SharePoint, Teams
+
+I focus on practical, scalable solutions that preserve data quality and accelerate insight-to-impact cycles.
